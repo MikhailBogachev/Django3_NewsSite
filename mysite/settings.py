@@ -139,19 +139,16 @@ INTERNAL_IPS = [
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 465  # 587
-<<<<<<< HEAD
 EMAIL_HOST_USER = ''
 EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_TLS = False
 EMAIL_USE_SSL = True
 DEFAULT_FROM_EMAIL = ''
-=======
 EMAIL_HOST_USER = 'djangonewssite@gmail.com'
 EMAIL_HOST_PASSWORD = 'fegrvcpaohnniftd'
 EMAIL_USE_TLS = False
 EMAIL_USE_SSL = True
 DEFAULT_FROM_EMAIL = 'djangonewssite@gmail.com'
->>>>>>> 319e4d1 (Initial commit)
 
 CKEDITOR_UPLOAD_PATH = "uploads/"
 

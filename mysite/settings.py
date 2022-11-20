@@ -144,11 +144,11 @@ EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_TLS = False
 EMAIL_USE_SSL = True
 DEFAULT_FROM_EMAIL = ''
-EMAIL_HOST_USER = 'djangonewssite@gmail.com'
-EMAIL_HOST_PASSWORD = 'fegrvcpaohnniftd'
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_TLS = False
 EMAIL_USE_SSL = True
-DEFAULT_FROM_EMAIL = 'djangonewssite@gmail.com'
+DEFAULT_FROM_EMAIL = ''
 
 CKEDITOR_UPLOAD_PATH = "uploads/"
 
